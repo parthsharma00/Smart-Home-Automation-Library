@@ -39,7 +39,7 @@ Each project is contained within its own folder:
 - `/Fire-Smoke-Alarm` -> Threshold-based safety logic
 
 ## 🔧 Getting Started
-1. Clone this repository: `git clone https://github.com/YourUsername/Smart-Home-Automation-Solutions.git`
+1. Clone this repository: `git clone https://github.com/parthsharma00/Smart-Home-Automation-Solutions.git`
 2. Open the desired `.ino` file in the **Arduino IDE**.
 3. Install required libraries (e.g., `MFRC522` for RFID).
 4. Upload to your Arduino Uno/ESP32 and follow the circuit diagrams provided in each folder.
